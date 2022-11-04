@@ -1,5 +1,19 @@
 # @3design/3design-ui
 
+## 1.0.6
+
+### Patch Changes
+
+- [#858](https://github.com/4-design/for-ui/pull/858) [`c84729b`](https://github.com/4-design/for-ui/commit/c84729bc4fddda69f504b332992d9a9aef436f16) Thanks [@renovate](https://github.com/apps/renovate)! - chore(deps): update all non-major dependencies
+
+- [#862](https://github.com/4-design/for-ui/pull/862) [`8617f51`](https://github.com/4-design/for-ui/commit/8617f51454a100ca2b3aa3df0bea9da00896eaed) Thanks [@renovate](https://github.com/apps/renovate)! - fix(deps): update all non-major dependencies
+
+- [#854](https://github.com/4-design/for-ui/pull/854) [`56305ce`](https://github.com/4-design/for-ui/commit/56305ce1ce7eecac93e9eb50399f520c013de06e) Thanks [@renovate](https://github.com/apps/renovate)! - chore(deps): update all non-major dependencies
+
+- [#883](https://github.com/4-design/for-ui/pull/883) [`3315cc1`](https://github.com/4-design/for-ui/commit/3315cc136ccb24a1617bc95b3a9ee8c01edd6337) Thanks [@renovate](https://github.com/apps/renovate)! - chore(deps): update all non-major dependencies
+
+- [#856](https://github.com/4-design/for-ui/pull/856) [`6c0291f`](https://github.com/4-design/for-ui/commit/6c0291f2899e73d42bec1aa2f5ae79572d388612) Thanks [@renovate](https://github.com/apps/renovate)! - chore(deps): update all non-major dependencies to v6.5.13
+
 ## 1.0.5
 
 ### Patch Changes
